@@ -1,0 +1,3 @@
+[host]
+ip = "127.0.0.1"
+fqdn = "foo.bar.com"
